@@ -26,7 +26,7 @@ class Person {
         person.displayDetails();
     }
 
-    // Static method to print the current instance details
+    //Method to print the current instance details
     public void printCurrentInstance() {
         myDetails(this);
     }
